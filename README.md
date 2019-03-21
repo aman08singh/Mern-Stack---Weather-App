@@ -68,8 +68,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 
-
-
 To have your own API Key, you need to follow these steps:
 
 1. Sign Up/Sign In with your account on: https://openweathermap.org/
