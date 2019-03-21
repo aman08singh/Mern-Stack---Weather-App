@@ -1,0 +1,6 @@
+To have your own API Key, you need to follow these steps:
+1. Sign Up/Sign In with your account on: https://openweathermap.org/
+2. After Sign In, in the API Keys tab, there you can see your personal API Key. It is under the text Key. It is just a random string of numbers and letters. 
+3. Copy that key and in the application, go to path: src/components/App.js, and paste the key in the const API_Key variable, between the inverted commas.
+4. Sometimes it takes a little while to activate your key. So you may end up in error.
+5. Done.
